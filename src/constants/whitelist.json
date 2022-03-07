@@ -1,0 +1,41 @@
+{
+  "mainnet": {
+    "tokens": {
+
+      "uluna": {
+        "protocol": "Native",
+        "symbol": "LUNA",
+        "token": "uluna",
+        "icon": "https://assets.terra.money/icon/60/Luna.png"
+      },
+      "uusd": {
+        "protocol": "Native",
+        "symbol": "UST",
+        "token": "uusd",
+        "icon": "https://assets.terra.money/icon/60/UST.png"
+      }
+
+    }
+
+  },
+  "testnet": {
+    "tokens": {
+
+      "uluna": {
+        "protocol": "Native",
+        "symbol": "LUNA",
+        "token": "uluna",
+        "icon": "https://assets.terra.money/icon/60/Luna.png"
+      },
+      "uusd": {
+        "protocol": "Native",
+        "symbol": "UST",
+        "token": "uusd",
+        "icon": "https://assets.terra.money/icon/60/UST.png"
+      }
+
+
+    }
+
+  }
+}
